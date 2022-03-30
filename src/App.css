@@ -1,0 +1,11 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.slide-active{
+  display:block;
+  transition: 1.5s ease-in-out;
+}
+.slide{
+  display: none;
+}
